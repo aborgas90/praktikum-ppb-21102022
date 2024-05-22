@@ -21,13 +21,13 @@ copy the one of them and paste on firebase project settings
 3. Log into Firebase using your Google account by running the following command:
    ```sh
    firebase login
-   ``
+
 4. Install the FlutterFire CLI by running the following command from any directory:
    ```sh
    dart pub global activate flutterfire_cli
-   ``
+
 5. Use the FlutterFire CLI to configure your Flutter apps to connect to Firebase.
    From your Flutter project directory, run the following command to start the app configuration workflow:
    ```sh
     flutterfire configure
-   ``
+
